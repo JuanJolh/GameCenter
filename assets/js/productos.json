@@ -1,0 +1,14 @@
+[
+    {"id":1, "nombre":"Xbox Series X", "marca":"Microsoft", "imagen":"seriesx.jpg", "precio":"499"},
+    {"id":2, "nombre":"Xbox Series S", "marca":"Microsoft", "imagen":"seriess.jpg", "precio":"299"},
+    {"id":3, "nombre":"Play Statios 5", "marca":"Sony", "imagen":"ps5.png", "precio":"499"},
+    {"id":4, "nombre":"Nintendo Switch", "marca":"Nintendo", "imagen":"nintendos.jpg", "precio":"299"},
+    {"id":5, "nombre":"Control Xbox", "marca":"Microsoft", "imagen":"controls.jpg", "precio":"299"},
+    {"id":6, "nombre":"Control PS5", "marca":"Sony", "imagen":"ps5control.jpg", "precio":"299"},
+    {"id":7, "nombre":"Joycon", "marca":"Nintendo", "imagen":"joycon.png", "precio":"299"},
+    {"id":8, "nombre":"Control Nintendo Switch", "marca":"Nintendo", "imagen":"switchpro.jpg", "precio":"299"},
+    {"id":9, "nombre":"Razer Kraken", "marca":"Razer", "imagen":"razer.jpg", "precio":"45"},
+    {"id":10, "nombre":"Xenoblade Chronicles 3", "marca":"Nintendo", "imagen":"xenoblade3.jpg", "precio":"60"},
+    {"id":11, "nombre":"Triangle Strategy", "marca":"Nintendo", "imagen":"triangle.jpg", "precio":"60"},
+    {"id":12, "nombre":"Octopath Traveler", "marca":"Nintendo", "imagen":"octopath.jpg", "precio":"60"}
+]
